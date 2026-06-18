@@ -114,11 +114,11 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ### *All-time favorites...*
 
-| 🎬 Movie | Genre | ⭐ | Poster |
-|---|---|---|---|
-| *Little Miss Sunshine* | *Comedy/Drama* | *10/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="75"> |
-| *Crazy Rich Asians* | *Rom-Com* | *10/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="75"> |
-| *Just Go With It* | *Rom-Com* | *10/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="75"> |
+| 🎬 Movie | Genre | Poster |
+|---|---|---|
+| *Little Miss Sunshine* | *Comedy/Drama* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="75"> |
+| *Crazy Rich Asians* | *Rom-Com* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="75"> |
+| *Just Go With It* | *Rom-Com* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="75"> |
 
 </td>
 </tr>
