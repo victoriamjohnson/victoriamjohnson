@@ -20,7 +20,8 @@ I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & D
 
 My work lives at the intersection of **AI, data science, and social impact.** I believe the most important question in tech isn't just *"does it work?"* but *"who does it work for?"*
 
-I want to learn from brilliant professionals, ship real products, and contribute to work all underrepresented community can benefit from 🇲🇽💪. Long-term, I'm working toward a Ph.D. and a career as a professor. I believe that building responsible technology starts in the classroom, and I want to be the one teaching it.
+I want to learn from brilliant professionals, ship real products, and contribute to work all underrepresented communities can benefit from. 💪🇲🇽
+Long-term, I'm working toward a Ph.D. and a career as a professor. I believe that building responsible technology starts in the classroom, and I want to be the one teaching it.
 
 
 | | |
