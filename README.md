@@ -93,10 +93,10 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 *Currently sipping on...*
 
-| Tea | ⭐ Rating | Notes |
-|---|---|---|
-| *Minty Green Tea* | ⭐⭐⭐⭐⭐ | *Refreshing, crisp, cooling sensation* |
-| *Hojicha* | ⭐⭐⭐⭐ | *Toasty, cozy, nutty notes* |
+| Tea | Notes |
+|---|---|
+| *Minty Green Tea* | *Refreshing, crisp, cooling sensation* |
+| *Hojicha* | *Toasty, cozy, nutty notes* |
 
 ---
 
@@ -104,11 +104,11 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 *Recently watched...*
 
-| 🎬 Movie | Genre | ⭐ |
-|---|---|---|
-| *Obsession* | *Horror* | *9.5/10* | <img src="[poster-url](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz)" width="100">
-| *Project Hail Mary* | *Sci-fi/Adventure* | *7.9/10* | <img src="[poster-url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R)" width="100">
-| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="[poster-url](https://www.imdb.com/title/tt33612209/)" width="100">
+| 🎬 Movie | Genre | ⭐ | Poster |
+|---|---|---|---|
+| *Obsession* | *Horror* | *9.5/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="100"> |
+| *Project Hail Mary* | *Sci-fi/Adventure* | *7.9/10* | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="100"> |
+| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://m.media-amazon.com/images/M/MV5BMjE0NDY5MDQ0OV5BMl5BanBnXkFtZTcwMzM0NDAzMQ@@._V1_.jpg" width="100"> |
 
 ---
 
