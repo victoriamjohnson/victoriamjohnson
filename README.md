@@ -20,7 +20,7 @@ I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & D
 
 My work lives at the intersection of **AI, data science, and social impact.** I believe the most important question in tech isn't just *"does it work?"* but *"who does it work for?"*
 
-Long-term, I'm working toward a Ph.D. and a career as a professor. I believe that building responsible technology starts in the classroom, and I want to be the one teaching it. Before academia, I want to go deep in industry: learning from brilliant professionals, shipping real products, and contributing to work that my community can recognize 🇲🇽.
+I want to learn from brilliant professionals, ship real products, and contribute to work that my community can benefit from 🇲🇽💪. Long-term, I'm working toward a Ph.D. and a career as a professor. I believe that building responsible technology starts in the classroom, and I want to be the one teaching it.
 
 
 | | |
@@ -99,7 +99,7 @@ Long-term, I'm working toward a Ph.D. and a career as a professor. I believe tha
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ### *Recently watched...*
 
@@ -110,7 +110,7 @@ Long-term, I'm working toward a Ph.D. and a career as a professor. I believe tha
 | *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="75"> |
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ### *All-time favorites...*
 
