@@ -103,22 +103,22 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ### *Recently watched...*
 
-| 🎬 Poster | Genre | ⭐ |
+| 🎬 Movie | Genre | ⭐ |
 |---|---|---|
-| <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="80"> | *Horror* | *9.5/10* |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="80"> | *Sci-fi* | *8.9/10* |
-| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="80"> | *Comedy* | *7/10* |
+| <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="100"> | *Horror* | *9.5/10* |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="100"> | *Sci-fi* | *8.9/10* |
+| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="100"> | *Comedy* | *7/10* |
 
 </td>
 <td valign="top" width="50%">
 
 ### *All-time favorites...*
 
-| 🎬 Poster | Genre |
+| 🎬 Movie | Genre |
 |---|---|
-| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="80"> | *Comedy/Drama* |
-| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="80"> | *Rom-Com* |
-| <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="80"> | *Rom-Com* |
+| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="100"> | *Comedy/Drama* |
+| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="100"> | *Rom-Com* |
+| <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="100"> | *Rom-Com* |
 
 </td>
 </tr>
