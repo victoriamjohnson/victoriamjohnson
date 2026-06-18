@@ -23,6 +23,7 @@ My work lives at the intersection of **AI, data science, and social impact.** I 
 Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe that building responsible technology starts in the classroom, and I want to be the one teaching it. Before academia, I want to go deep in industry: learning from brilliant professionals, shipping real products, and contributing to work that my community can recognize 🇲🇽.
 
 
+| | |
 |---|---|
 | 🏫 | Student at the **University of Texas at San Antonio**, AI & Data Science Concentration |
 | 🤖 | Passionate about responsible AI, ML, and educational technology |
