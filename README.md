@@ -99,7 +99,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 
 ### *Recently watched...*
 
@@ -110,15 +110,36 @@ I want to learn from brilliant professionals, ship real products, and contribute
 | *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="75"> |
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 
 ### *All-time favorites...*
 
-| 🎬 Movie | Genre | Poster |
-|---|---|---|
-| *Little Miss Sunshine* | *Comedy/Drama* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="75"> |
-| *Crazy Rich Asians* | *Rom-Com* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="75"> |
-| *Just Go With It* | *Rom-Com* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="75"> |
+<table>
+  <thead>
+    <tr>
+      <th>🎬 Movie</th>
+      <th>Genre</th>
+      <th>Poster</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><i>Little Miss Sunshine</i></td>
+      <td>Comedy/Drama</td>
+      <td><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="75"></td>
+    </tr>
+    <tr>
+      <td><i>Crazy Rich Asians</i></td>
+      <td>Rom-Com</td>
+      <td><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="75"></td>
+    </tr>
+    <tr>
+      <td><i>Just Go With It</i></td>
+      <td>Rom-Com</td>
+      <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="75"></td>
+    </tr>
+  </tbody>
+</table>
 
 </td>
 </tr>
