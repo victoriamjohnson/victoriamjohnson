@@ -108,7 +108,7 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 |---|---|---|---|
 | *Obsession* | *Horror* | *9.5/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="100"> |
 | *Project Hail Mary* | *Sci-fi/Adventure* | *7.9/10* | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="100"> |
-| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://m.media-amazon.com/images/M/MV5BMjE0NDY5MDQ0OV5BMl5BanBnXkFtZTcwMzM0NDAzMQ@@._V1_.jpg" width="100"> |
+| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="100"> |
 
 ---
 
