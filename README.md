@@ -105,20 +105,20 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 | 🎬 Movie | Genre | ⭐ | Poster |
 |---|---|---|---|
-| *Obsession* | *Horror* | *9.5/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="100"> |
-| *Project Hail Mary* | *Sci-fi* | *8.9/10* | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="100"> |
-| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="100"> |
+| *Obsession* | *Horror* | *9.5/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="75"> |
+| *Project Hail Mary* | *Sci-fi* | *8.9/10* | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="75"> |
+| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="75"> |
 
 </td>
 <td valign="top" width="50%">
 
 ### *All-time favorites...*
 
-| 🎬 Movie | Genre | Poster |
-|---|---|---|
-| *Little Miss Sunshine* | *Comedy/Drama* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="100"> |
-| *Crazy Rich Asians* | *Rom-Com* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="100"> |
-| *Just Go With It* | *Rom-Com* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="100"> |
+| 🎬 Movie | Genre | ⭐ | Poster |
+|---|---|---|---|
+| *Little Miss Sunshine* | *Comedy/Drama* | *10/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="75"> |
+| *Crazy Rich Asians* | *Rom-Com* | *10/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="75"> |
+| *Just Go With It* | *Rom-Com* | *10/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="75"> |
 
 </td>
 </tr>
