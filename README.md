@@ -38,8 +38,8 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 ![C](https://img.shields.io/badge/C-6a0d83?style=flat&logo=c&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-eeaf61?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-fb9062?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ee5d6c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-ee5d6c?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ee5d6c?style=flat&logo=anaconda&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-ee5d6c?style=flat&logo=jupyter&logoColor=white)
 
 **AI / ML**
 
