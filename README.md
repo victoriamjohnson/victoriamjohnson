@@ -125,11 +125,11 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 ### *All-time favorites...*
 
-| 🎬 Movie | Genre | ⭐ | Poster |
-|---|---|---|---|
-| *Little Miss Sunshine* | *Comedy/Drama* | *10/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="60"> |
-| *Crazy Rich Asians* | *Rom-Com* | *10/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="60"> |
-| *Just Go With It* | *Rom-Com* | *10/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="60"> |
+| 🎬 Movie | Genre | Poster |
+|---|---|---|
+| *Little Miss Sunshine* | *Comedy/Drama* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="60"> |
+| *Crazy Rich Asians* | *Rom-Com* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="60"> |
+| *Just Go With It* | *Rom-Com* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="60"> |
 
 </td>
 </tr>
