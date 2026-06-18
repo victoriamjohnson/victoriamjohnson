@@ -1,77 +1,145 @@
-# Glad you're here, I'm Victoria Johnson!
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victoriamarie-johnson/)
-[![Email](https://img.shields.io/badge/Email-vicmjohn10%40gmail.com-pink?style=flat&logo=gmail)](mailto:vicmjohn10@gmail.com)
+# hey, i'm victoria! 🌻
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-8B5CF6?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
+[![Email](https://img.shields.io/badge/Email-victoria.johnson.marie%40gmail.com-F97316?style=flat&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-victoriamjohnson-22C55E?style=flat&logo=github&logoColor=white)](https://github.com/victoriamjohnson)
 
-## About Me
-
-I'm an aspiring **AI/ML developer** and undergraduate researcher at the **University of Texas at San Antonio (UTSA)**, passionate about building responsible, human-centered technology. My work sits at the intersection of artificial intelligence, education, and social impact — I believe that the best tech doesn't just work well, it works *for* people.
-
-I'm currently developing AI tools for K-12 learners and exploring how machine learning can be applied ethically and equitably across communities.
-
-- 🎓 Student at **UTSA** | Developing AI Tools for K-12
-- 🤖 Focused on **Responsible AI**, **Machine Learning**, and **Educational Technology**
-- 🌱 Currently learning: deep learning, model evaluation, and AI fairness frameworks
-- 🔬 Undergraduate researcher with a focus on game-based learning and AI ethics
-- 💡 Open to collaborating on AI/ML projects, open-source tools, and ed-tech initiatives
-- 📍 San Antonio, TX | She/Her
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌈 about me
 
-**Languages & Frameworks**
+i'm a **first-generation computer science student** 🎓 pursuing my **B.S. in Computer Science (AI & Data Science Concentration)** at the **University of Texas at San Antonio**, graduating December 2027 with a 4.0 GPA. i'm the first person in my family to study CS — and that drives everything i do.
+
+my work lives at the intersection of **artificial intelligence, data science, and social impact**. i believe the most important question in tech isn't just *"does it work?"* — it's *"who does it work for?"*
+
+long-term, i'm working toward a **Ph.D. and a career as a professor**, because i believe that if we want to build responsible technology, the people building it need to learn responsibility in the classroom — and i want to be the person who teaches it. before academia though, i want to get my hands deep in industry: learning from brilliant professionals, shipping real products, and contributing to teams doing meaningful work that matters.
+
+- 🏫 student @ **UTSA** | AI & Data Science Concentration
+- 🤖 passionate about **responsible AI, ML, and educational technology**
+- 🔬 undergraduate researcher — medical VQA, game-based learning, AI ethics
+- 💜 **first-gen CS student** on a mission to make the field more accessible
+- 📍 San Antonio, TX
+
+---
+
+## 🛠️ tech stack
+
+**Languages & Libraries**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 
 **AI / ML Tools**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-191919?style=flat&logo=anthropic&logoColor=white)
 
-**Other Tools**
+**Data & Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
-![Phaser.js](https://img.shields.io/badge/Phaser.js-8B0000?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Project
+## 💼 what i'm working on
 
-### 🤖 [Dumb Ways to AI](https://github.com/victoriamjohnson/dumb-ways-to-ai)
-> *"Build AI. Don't break society."*
+### 🏢 Data Science Intern — Better Futures Institute *(Summer 2026)*
+building AI-powered tools for **VIA Metropolitan Transit** — developing forecasting models, data science pipelines, and analytics systems that help VIA transform fragmented data into actionable insights for city officials and stakeholders. *(repo is private — commits coming soon! 🔒)*
 
-An educational browser-based game designed to teach 8th graders about the **4 Principles of Responsible AI** — fairness, transparency, privacy, and accountability — through fast-paced, interactive microgames.
+### 🚀 AI/ML Fellow — Break Through Tech *(May 2026 – Present)*
+selected from **4,300+ applicants** for a competitive, 12-month AI/ML fellowship.
+- ✅ completed: **Python Basics**
+- 📚 currently: **Machine Learning Foundations** course
+- 🍂 this fall: partnering with a company to build a real-world AI/ML project *(stay tuned!)*
+- developing transferable skills in technical communication, project management, and translating ML insights into business decisions
 
-- 🎮 Built with **Phaser.js**, **Firebase**, and custom artwork made in Procreate
-- 📊 Includes pre/post learning assessments via Qualtrics for research purposes
-- 🏫 Aligned with the **AI4K12 Big Idea 5: Societal Impact** framework
-- 🔬 Developed as part of an undergraduate research project at UTSA
-- 🚀 Deployed via GitHub Pages — [Play it here!](https://victoriamjohnson.github.io/dumb-ways-to-ai/)
+📜 **Certification:** ML Foundations Certificate *(in progress — will be added upon completion)*
 
 ---
 
-## 📂 Repositories
+## 📂 featured projects
 
-| Project | Description | Tech |
+### 🤖 [Dumb Ways to AI](https://github.com/victoriamjohnson/dumb-ways-to-ai) — Responsible AI Web App
+an educational browser game teaching **8th graders** about the 4 Principles of Responsible AI through fast-paced, interactive microgames. built with JavaScript, Phaser.js, and Firebase — deployed via GitHub Pages and validated through a formal classroom study.
+
+> *"build AI. don't break society."*
+
+---
+
+### 🏥 Medical VQA Research — UTSA CURE *(Private)*
+collaborated with [Issac Alvarez](https://github.com/Issacalv) as part of an independent study benchmarking AI models on medical visual question answering. collected, cleaned, and structured **2,000+ medical image records** using Python and pandas, and performed **500+ image QA reviews** comparing 3 VQA models.
+
+> *(contributed to [IndependentStudy25_VQA](https://github.com/Issacalv/IndependentStudy25_VQA) — repo is private)*
+
+---
+
+### 🚌 VIA Transit AI Platform — Better Futures Institute *(Private)*
+[placeholder — building forecasting models, data pipelines, and stakeholder-facing dashboards for VIA Metropolitan Transit. commits coming soon! 🔒]
+
+---
+
+## 🏆 honors & fellowships
+
+| 🏅 | Award | Organization |
 |---|---|---|
-| [dumb-ways-to-ai](https://github.com/victoriamjohnson/dumb-ways-to-ai) | Educational game on Responsible AI for K-12 | JavaScript, Phaser.js, Firebase |
-| More coming soon... | AI/ML projects in progress | Python, scikit-learn, TensorFlow |
+| 💜 | HSF Scholar & Mentor | Hispanic Scholarship Fund |
+| 🟡 | USAA Ascent Scholar | USAA |
+| 🚀 | Break Through Tech AI/ML Fellow | Break Through Tech (selected from 4,300+) |
 
 ---
 
-## 📫 Contact Me
+## 🍵 victoria's tea corner
 
-I'm always open to connecting with fellow developers, researchers, and educators!
+*currently sipping on...*
 
-- 📧 **Email:** [vicmjohn10@gmail.com](mailto:vicmjohn10@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/victoriamjohnson](https://www.linkedin.com/in/victoriamjohnson)
-- 🐙 **GitHub:** [@victoriamjohnson](https://github.com/victoriamjohnson)
+| Tea | ⭐ Rating | Notes |
+|---|---|---|
+| *[add your recent teas here!]* | | |
+| *e.g. Hojicha Latte* | ⭐⭐⭐⭐⭐ | *toasty, cozy, perfect autumn energy* |
+| *e.g. Peach Oolong* | ⭐⭐⭐⭐ | *fruity and smooth, great iced* |
 
 ---
 
-*"Technology should serve everyone — not just those who build it."*
+## 🎬 victoria's movie shelf
+
+*recently watched...*
+
+| 🎬 Movie | Vibe | ⭐ |
+|---|---|---|
+| *[Movie Title]* | *[genre/mood]* | */10* |
+| *[Movie Title]* | *[genre/mood]* | */10* |
+| *[Movie Title]* | *[genre/mood]* | */10* |
+
+> 💡 *tip: you can add movie poster images here using* `<img src="poster-url" width="100">`
+
+---
+
+## 📫 let's connect!
+
+i'm always down to chat about AI, research, ed-tech, good teas, or underrated films 🎬✨
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
+
+---
+
+<div align="center">
+
+*"technology should serve everyone — not just those who build it."* 💜
+
+</div>
