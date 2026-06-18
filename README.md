@@ -106,11 +106,9 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 | 🎬 Movie | Genre | ⭐ |
 |---|---|---|
-| *Obsession* | *Horror* | *9.5/10* | <img src="[poster-url](https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_2#/media/File:The_Devil_Wears_Prada_2_(film_poster).png)" width="100">
-| *Project Hail Mary* | *Sci-fi/Adventure* | *7.9/10* | <img src="poster-url" width="100">
-| *The Devil Wears Prada 2* | *Comedy* | *7/10* |
-
-> 💡 *Tip: Add movie poster images using* `<img src="poster-url" width="100">`
+| *Obsession* | *Horror* | *9.5/10* | <img src="[poster-url](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz)" width="100">
+| *Project Hail Mary* | *Sci-fi/Adventure* | *7.9/10* | <img src="[poster-url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R)" width="100">
+| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="[poster-url](https://www.imdb.com/title/tt33612209/)" width="100">
 
 ---
 
