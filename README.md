@@ -14,7 +14,7 @@
 
 ---
 
-## 🌞 About Me
+## 🌈 About Me
 
 I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & Data Science Concentration)** at the **University of Texas at San Antonio**. I'm the first in my family to study CS, and I wanted to display how much I've learned in my academic journey so far!
 
@@ -64,14 +64,14 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## 💼 What I'm Working On
+## 👩🏽‍💻 What I'm Working On
 
 | Role | Organization | Details |
 |---|---|---|
 | 🏢 Data Science Intern | Better Futures Institute | Building forecasting models and data analytics tools for VIA Metropolitan Transit. *(Private repo, commits coming soon!)* |
 | 🚀 AI/ML Fellow | Break Through Tech | Selected from 4,300+ applicants for a 12-month fellowship. Currently completing ML Foundations. Partnering with a company on a real-world AI/ML project this fall. |
 
-📜 **Certification:** ML Foundations Certificate *(in progress)*
+🎓 **Certification:** ML Foundations Certificate *(in progress)*
 
 ---
 
