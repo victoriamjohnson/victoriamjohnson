@@ -97,11 +97,32 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ## 🎬 Victoria's Movie Shelf
 
-| 🍿 Recently Watched | 💜 All-Time Favorites |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### *Recently watched...*
+
+| 🎬 Poster | Genre | ⭐ |
+|---|---|---|
+| <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="80"> | *Horror* | *9.5/10* |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="80"> | *Sci-fi* | *8.9/10* |
+| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="80"> | *Comedy* | *7/10* |
+
+</td>
+<td valign="top" width="50%">
+
+### *All-time favorites...*
+
+| 🎬 Poster | Genre |
 |---|---|
-| **Obsession**<br>_Horror_ • 9.5/10<br><br><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="110"> | **Little Miss Sunshine**<br>_Comedy/Drama_<br><br><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="110"> |
-| **Project Hail Mary**<br>_Sci-fi_ • 8.9/10<br><br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="110"> | **Crazy Rich Asians**<br>_Rom-Com_<br><br><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="110"> |
-| **The Devil Wears Prada 2**<br>_Comedy_ • 7/10<br><br><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="110"> | **Just Go With It**<br>_Rom-Com_<br><br><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="110"> |
+| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="80"> | *Comedy/Drama* |
+| <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="80"> | *Rom-Com* |
+| <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="80"> | *Rom-Com* |
+
+</td>
+</tr>
+</table>
 
 ---
 
