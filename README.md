@@ -97,53 +97,11 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ## 🎬 Victoria's Movie Shelf
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### *Recently watched...*
-
-| 🎬 Movie | Genre | ⭐ | Poster |
-|---|---|---|---|
-| *Obsession* | *Horror* | *9.5/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="75"> |
-| *Project Hail Mary* | *Sci-fi* | *8.9/10* | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="75"> |
-| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="75"> |
-
-</td>
-<td valign="top" width="50%">
-
-### *All-time favorites...*
-
-<table>
-  <thead>
-    <tr>
-      <th>🎬 Movie</th>
-      <th>Genre</th>
-      <th>Poster</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><i>Little Miss Sunshine</i></td>
-      <td>Comedy/Drama</td>
-      <td><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="75"></td>
-    </tr>
-    <tr>
-      <td><i>Crazy Rich Asians</i></td>
-      <td>Rom-Com</td>
-      <td><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="75"></td>
-    </tr>
-    <tr>
-      <td><i>Just Go With It</i></td>
-      <td>Rom-Com</td>
-      <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="75"></td>
-    </tr>
-  </tbody>
-</table>
-
-</td>
-</tr>
-</table>
+| 🍿 Recently Watched | 💜 All-Time Favorites |
+|---|---|
+| **Obsession**<br>_Horror_ • 9.5/10<br><br><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="110"> | **Little Miss Sunshine**<br>_Comedy/Drama_<br><br><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="110"> |
+| **Project Hail Mary**<br>_Sci-fi_ • 8.9/10<br><br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="110"> | **Crazy Rich Asians**<br>_Rom-Com_<br><br><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="110"> |
+| **The Devil Wears Prada 2**<br>_Comedy_ • 7/10<br><br><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="110"> | **Just Go With It**<br>_Rom-Com_<br><br><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="110"> |
 
 ---
 
