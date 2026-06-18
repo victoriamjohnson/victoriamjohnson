@@ -95,17 +95,6 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 ---
 
-## 🍵 Victoria's Tea Corner
-
-*Currently sipping on...*
-
-| Tea | Notes |
-|---|---|
-| *Minty Green Tea* | *Refreshing, crisp, cooling sensation* |
-| *Hojicha* | *Toasty, cozy, nutty notes* |
-
----
-
 ## 🎬 Victoria's Movie Shelf
 
 <table>
@@ -116,9 +105,9 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 | 🎬 Movie | Genre | ⭐ | Poster |
 |---|---|---|---|
-| *Obsession* | *Horror* | *9.5/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="60"> |
-| *Project Hail Mary* | *Sci-fi* | *7.9/10* | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="60"> |
-| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="60"> |
+| *Obsession* | *Horror* | *9.5/10* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="100"> |
+| *Project Hail Mary* | *Sci-fi* | *7.9/10* | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="100"> |
+| *The Devil Wears Prada 2* | *Comedy* | *7/10* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWbQjstzxb8-jCDtadoObZacXXvP91WGQ_LTvxnKW8aT945408" width="100"> |
 
 </td>
 <td valign="top" width="50%">
@@ -127,9 +116,9 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 | 🎬 Movie | Genre | Poster |
 |---|---|---|
-| *Little Miss Sunshine* | *Comedy/Drama* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="60"> |
-| *Crazy Rich Asians* | *Rom-Com* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="60"> |
-| *Just Go With It* | *Rom-Com* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="60"> |
+| *Little Miss Sunshine* | *Comedy/Drama* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0cUJ-yvCKNvYnq0dEBwi3jQEh9SpPgbW9lvSrTjspwQUwKd6" width="100"> |
+| *Crazy Rich Asians* | *Rom-Com* | <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZSTpuDh-OIcLBbXdBTp9WOjsywJLTZfdUQZsBWu1bajoR2sdJ" width="100"> |
+| *Just Go With It* | *Rom-Com* | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8DOK5APVw4e6YZ564KXOelpeQqejAzqFSSxLM0AbjSUQ05sIp" width="100"> |
 
 </td>
 </tr>
@@ -139,7 +128,7 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 ## 📫 Let's Connect!
 
-I'm always down to chat about AI, research, ed-tech, good teas, or underrated films. 🎬
+I'm always down to chat about AI, research, education-tech, or underrated films! 🎬
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-ce4993?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-6a0d83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
