@@ -20,8 +20,7 @@ I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & D
 
 My work lives at the intersection of **AI, data science, and social impact.** I believe the most important question in tech isn't just *"does it work?"* but *"who does it work for?"*
 
-I want to learn from brilliant professionals, ship real products, and contribute to work all underrepresented communities can benefit from. 💪🇲🇽
-Long-term, I'm working toward a Ph.D. and a career as a professor. I believe that building responsible technology starts in the classroom, and I want to be the one teaching it.
+I want to learn from brilliant professionals, ship real products, and contribute to work all underrepresented communities can benefit from. Long-term, I'm working toward a Ph.D. and a career as a professor. I believe that building responsible technology starts in the classroom, and I want to be the one teaching it.
 
 
 | | |
@@ -29,7 +28,7 @@ Long-term, I'm working toward a Ph.D. and a career as a professor. I believe tha
 | 🏫 | Student at the **University of Texas at San Antonio**, AI & Data Science Concentration |
 | 🤖 | Passionate about responsible AI, ML, and educational technology |
 | 🔬 | Undergraduate researcher in medical VQA, game-based learning, and AI ethics |
-| 💜 | On a mission to make the field more accessible |
+| 💜 | On a mission to make the field more accessible 🇲🇽🦾|
 | 📍 | San Antonio, TX |
 
 ---
