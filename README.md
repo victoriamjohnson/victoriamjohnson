@@ -1,4 +1,4 @@
-# Hi, I'm Victoria Johnson 👋
+# Glad you're here, I'm Victoria Johnson!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victoriamarie-johnson/)
 [![Email](https://img.shields.io/badge/Email-vicmjohn10%40gmail.com-pink?style=flat&logo=gmail)](mailto:vicmjohn10@gmail.com)
