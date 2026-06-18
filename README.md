@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Victoria! 🌻
+# I'm glad you're here, my name is Victoria!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-ce4993?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
 [![Email](https://img.shields.io/badge/Email-victoria.johnson.marie%40gmail.com-ee5d6c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
@@ -11,18 +11,18 @@
 
 ## 🌈 About Me
 
-I'm a **first-generation computer science student** pursuing a **B.S. in Computer Science (AI & Data Science Concentration)** at the **University of Texas at San Antonio**, graduating December 2027 with a 4.0 GPA. I'm the first in my family to study CS, and that drives everything I do.
+I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & Data Science Concentration)** at the **University of Texas at San Antonio**. I'm the first in my family to study CS, and I wanted to display how much I've learned in my academic journey so far!
 
 My work lives at the intersection of **AI, data science, and social impact.** I believe the most important question in tech isn't just *"does it work?"* but *"who does it work for?"*
 
-Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe that building responsible technology starts in the classroom, and I want to be the one teaching it. Before academia, I want to go deep in industry: learning from brilliant professionals, shipping real products, and contributing to work that matters.
+Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe that building responsible technology starts in the classroom, and I want to be the one teaching it. Before academia, I want to go deep in industry: learning from brilliant professionals, shipping real products, and contributing to work that my community can recognize 🇲🇽.
 
 | | |
 |---|---|
-| 🏫 | Student at **UTSA**, AI & Data Science Concentration |
+| 🏫 | Student at the **University of Texas at San Antonio**, AI & Data Science Concentration |
 | 🤖 | Passionate about responsible AI, ML, and educational technology |
 | 🔬 | Undergraduate researcher in medical VQA, game-based learning, and AI ethics |
-| 💜 | First-gen CS student on a mission to make the field more accessible |
+| 💜 | On a mission to make the field more accessible |
 | 📍 | San Antonio, TX |
 
 ---
@@ -39,6 +39,7 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 ![pandas](https://img.shields.io/badge/pandas-eeaf61?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-fb9062?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ee5d6c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-ee5d6c?style=flat&logo=python&logoColor=white)
 
 **AI / ML**
 
@@ -94,9 +95,8 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 | Tea | ⭐ Rating | Notes |
 |---|---|---|
-| *[Add your recent teas here!]* | | |
-| *e.g. Hojicha Latte* | ⭐⭐⭐⭐⭐ | *Toasty, cozy, perfect autumn energy* |
-| *e.g. Peach Oolong* | ⭐⭐⭐⭐ | *Fruity and smooth, great iced* |
+| *Minty Green Tea* | ⭐⭐⭐⭐⭐ | *Refreshing, crisp, cooling sensation* |
+| *Hojicha* | ⭐⭐⭐⭐ | *Toasty, cozy, nutty notes* |
 
 ---
 
@@ -104,11 +104,11 @@ Long-term, I'm working toward a **Ph.D. and a career as a professor.** I believe
 
 *Recently watched...*
 
-| 🎬 Movie | Vibe | ⭐ |
+| 🎬 Movie | Genre | ⭐ |
 |---|---|---|
-| *[Movie Title]* | *[genre/mood]* | */10* |
-| *[Movie Title]* | *[genre/mood]* | */10* |
-| *[Movie Title]* | *[genre/mood]* | */10* |
+| *Obsession* | *Horror* | *9.5/10* | <img src="[poster-url](https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_2#/media/File:The_Devil_Wears_Prada_2_(film_poster).png)" width="100">
+| *Project Hail Mary* | *Sci-fi/Adventure* | *7.9/10* | <img src="poster-url" width="100">
+| *The Devil Wears Prada 2* | *Comedy* | *7/10* |
 
 > 💡 *Tip: Add movie poster images using* `<img src="poster-url" width="100">`
 
