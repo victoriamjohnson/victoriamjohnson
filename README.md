@@ -3,7 +3,12 @@
 # I'm glad you're here, my name is Victoria!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-ce4993?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
-[![Email](https://img.shields.io/badge/Email-victoria.johnson.marie%40gmail.com-ee5d6c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
+
+### 📬 Get in Touch
+
+[![Work Opportunities](https://img.shields.io/badge/Work%20Opportunities-victoria.johnson.marie%40gmail.com-ee5d6c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
+
+[![Project Collaboration](https://img.shields.io/badge/Project%20Collaboration-vicmjohn10%40gmail.com-fb9062?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicmjohn10@gmail.com)
 
 </div>
 
