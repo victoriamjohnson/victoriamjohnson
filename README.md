@@ -14,7 +14,7 @@
 
 ---
 
-## 🌈 About Me
+## ☀️ About Me
 
 I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & Data Science Concentration)** at the **University of Texas at San Antonio**. I'm the first in my family to study CS, and I wanted to display how much I've learned in my academic journey so far!
 
