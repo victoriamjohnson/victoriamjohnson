@@ -128,7 +128,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ## Let's Connect!
 
-I'm always happy to chat about AI, research, education-tech, or underrated films! 🎬
+I'm always happy to chat about AI, research, education-tech, or underrated films!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-ce4993?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-6a0d83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
