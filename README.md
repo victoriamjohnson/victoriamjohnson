@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-ce4993?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
 
-### Use These If You Want to Get in Touch
+### Use these if you want to get in touch!
 
 [![Work Opportunities](https://img.shields.io/badge/Work%20Opportunities-victoria.johnson.marie%40gmail.com-ee5d6c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## About Me :)
+## If you want to know a little bit about me :)
 
 I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & Data Science Concentration)** at the **University of Texas at San Antonio**. I'm the first in my family to study CS, and I wanted to display how much I've learned in my academic journey so far!
 
@@ -64,7 +64,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## What I'm Working On 👩🏽‍💻
+## If you so happen to want to know what I'm working on 👩🏽‍💻
 
 | Role | Organization | Details |
 |---|---|---|
@@ -95,7 +95,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## Welcome to My Very Own Movie Shelf!
+## I'm also an amateur movie critic. Here is my opinion on a few movies!
 
 <table>
 <tr>
