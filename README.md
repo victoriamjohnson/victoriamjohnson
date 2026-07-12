@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-ce4993?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
 
-### ✉️ Get in Touch
+### Let's Get in Touch
 
 [![Work Opportunities](https://img.shields.io/badge/Work%20Opportunities-victoria.johnson.marie%40gmail.com-ee5d6c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## ☀️ About Me
+## About Me :)
 
 I'm a **computer science student** pursuing a **B.S. in Computer Science (AI & Data Science Concentration)** at the **University of Texas at San Antonio**. I'm the first in my family to study CS, and I wanted to display how much I've learned in my academic journey so far!
 
@@ -33,7 +33,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Libraries**
 
@@ -68,14 +68,14 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 | Role | Organization | Details |
 |---|---|---|
-| 🏢 Data Science Intern | Better Futures Institute | Building forecasting models and data analytics tools for VIA Metropolitan Transit. *(Private repo, commits coming soon!)* |
-| 🚀 AI/ML Fellow | Break Through Tech | Selected from 4,300+ applicants for a 12-month fellowship. Currently completing ML Foundations. Partnering with a company on a real-world AI/ML project this fall. |
+| Data Science Intern | Better Futures Institute | Building forecasting models and data analytics tools for VIA Metropolitan Transit. *(Private repo, commits coming soon!)* |
+| AI/ML Fellow | Break Through Tech | Selected from 4,300+ applicants for a 12-month fellowship. Currently completing ML Foundations. Partnering with a company on a real-world AI/ML project this fall. |
 
 🎓 **Certification:** ML Foundations Certificate *(in progress)*
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Repo |
 |---|---|---|
@@ -85,9 +85,9 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## 🏆 Honors & Fellowships
+## Honors & Fellowships
 
-| 🏅 Award | Organization |
+| Award | Organization |
 |---|---|
 | HSF Scholar & Mentor | Hispanic Scholarship Fund |
 | USAA Ascent Scholar | USAA |
@@ -95,7 +95,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## 🎬 Victoria's Movie Shelf
+## Victoria's Movie Shelf
 
 <table>
 <tr>
@@ -126,7 +126,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always down to chat about AI, research, education-tech, or underrated films! 🎬
 
