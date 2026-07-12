@@ -64,7 +64,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## If you so happen to want to know what I'm working on 👩🏽‍💻
+## What I'm currently working on 👩🏽‍💻
 
 | Role | Organization | Details |
 |---|---|---|
