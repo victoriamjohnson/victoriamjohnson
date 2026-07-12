@@ -64,14 +64,14 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## 👩🏽‍💻 What I'm Working On
+## What I'm Working On 👩🏽‍💻
 
 | Role | Organization | Details |
 |---|---|---|
 | Data Science Intern | Better Futures Institute | Building forecasting models and data analytics tools for VIA Metropolitan Transit. *(Private repo, commits coming soon!)* |
 | AI/ML Fellow | Break Through Tech | Selected from 4,300+ applicants for a 12-month fellowship. Currently completing ML Foundations. Partnering with a company on a real-world AI/ML project this fall. |
 
-🎓 **Certification:** ML Foundations Certificate *(in progress)*
+**Certification:** ML Foundations Certificate *(in progress)*
 
 ---
 
