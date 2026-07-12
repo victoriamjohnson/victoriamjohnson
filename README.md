@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria%20Johnson-ce4993?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamarie-johnson/)
 
-### Use these if you want to get in touch!
+### Let's get in touch!
 
 [![Work Opportunities](https://img.shields.io/badge/Work%20Opportunities-victoria.johnson.marie%40gmail.com-ee5d6c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.johnson.marie@gmail.com)
 
