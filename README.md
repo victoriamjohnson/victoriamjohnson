@@ -95,7 +95,7 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 ---
 
-## Victoria's Movie Shelf
+## Welcome to My Very Own Movie Shelf!
 
 <table>
 <tr>
