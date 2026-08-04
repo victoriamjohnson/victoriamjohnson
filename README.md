@@ -105,9 +105,9 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 | 🎬 Movie | Genre | ⭐ |
 |---|---|---|
+| <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR0RtSBPqjiQScSPYV5YnWdDTUNGWWrjaUIwnEs2WuioLTCJBM" width="100"> | *Action/Adventure* | ⭐️⭐️⭐️⭐️⭐️ |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCiKcoMvfyOZO5B6V-Fac5KG3AbjeStTDx0RZ_qXZsAcSRiBhV" width="100"> | *Action/Fantasy* | ⭐️⭐️⭐️⭐️⭐️ |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6FXJBoVZVkmwAnP_7HMVyegbs7xesHFSd3w_fqXphIEwr2u3" width="100"> | *Sci-fi/Action* | ⭐️⭐️⭐️ |
-| <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpEZGCdz_ebuMDbEx1zo-6rSL9IIX5SpwCcxcaW5mHMb6UuOz" width="100"> | *Horror* | ⭐️⭐️⭐️⭐️⭐️ |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vV3vk2FZsojThPuYLr2GCwMEejA1_t7fZFz9CgHCBcTUCh3R" width="100"> | *Sci-fi* | ⭐️⭐️⭐️⭐️ |
 
 </td>
 <td valign="top" width="50%">
