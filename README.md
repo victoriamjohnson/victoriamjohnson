@@ -105,9 +105,9 @@ I want to learn from brilliant professionals, ship real products, and contribute
 
 | 🎬 Movie | Genre | ⭐ |
 |---|---|---|
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLkU27CQa_lBBG5hSokb8UvqsasgLzKUU1AoDvz7GCItek4dj7KrEwtACWhQ3UaLFpB-ZHhiwfb4eug&s=10&ec=122174860" width="100"> | *Adventure/Fantasy* | ⭐️⭐️⭐️⭐️⭐️ |
 | <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR0RtSBPqjiQScSPYV5YnWdDTUNGWWrjaUIwnEs2WuioLTCJBM" width="100"> | *Action/Adventure* | ⭐️⭐️⭐️⭐️⭐️ |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCiKcoMvfyOZO5B6V-Fac5KG3AbjeStTDx0RZ_qXZsAcSRiBhV" width="100"> | *Action/Fantasy* | ⭐️⭐️⭐️⭐️⭐️ |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6FXJBoVZVkmwAnP_7HMVyegbs7xesHFSd3w_fqXphIEwr2u3" width="100"> | *Sci-fi/Action* | ⭐️⭐️⭐️ |
 
 </td>
 <td valign="top" width="50%">
